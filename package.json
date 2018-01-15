@@ -1,6 +1,6 @@
 {
   "name": "wanna-rest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a mock restful api by command line interface.",
   "main": "src/index.js",
   "scripts": {
