@@ -8,7 +8,7 @@ Create a mock RESTful api by command line interface.
 
 ## How to use
 
-### Create your own configuration file. Using the format is shown below
+### Create your own configuration file. Using the format shown below
 
 ```JSON
 {
