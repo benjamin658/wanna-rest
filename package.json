@@ -7,8 +7,23 @@
     "test": "ava"
   },
   "bin": {
-    "restful-cli": "src/index.js"
+    "wanna-rest": "src/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamin658/wanna-rest.git"
+  },
+  "keywords": [
+    "JSON",
+    "mock",
+    "rest",
+    "REST",
+    "RESTful",
+    "api",
+    "API",
+    "server",
+    "prototyping"
+  ],
   "author": "Ben Hu <benjamin658gae@gmail.com>",
   "license": "WTFPL",
   "dependencies": {
