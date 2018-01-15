@@ -1,0 +1,21 @@
+{
+  "name": "wanna-rest",
+  "version": "0.0.1",
+  "description": "Create a mock restful api by command line interface.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "bin": {
+    "restful-cli": "src/index.js"
+  },
+  "author": "Ben Hu <benjamin658gae@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "commander": "^2.13.0",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "ava": "^0.24.0"
+  }
+}
