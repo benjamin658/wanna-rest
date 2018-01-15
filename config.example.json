@@ -1,0 +1,42 @@
+{
+  "apis": [
+    {
+      "path": "/users",
+      "method": "GET",
+      "withParam": true,
+      "data": [
+        {
+          "id": 1,
+          "name": "Ben"
+        },
+        {
+          "id": 2,
+          "name": "KiKi"
+        },
+        {
+          "id": 3,
+          "name": "Kai"
+        }
+      ]
+    },
+    {
+      "path": "/posts",
+      "method": "GET",
+      "withParam": true,
+      "data": [
+        {
+          "id": 1,
+          "title": "Ben's post",
+          "content": "Hello world",
+          "userId": 1
+        },
+        {
+          "id": 2,
+          "title": "KiKi's post",
+          "content": "Hello world",
+          "userId": 2
+        }
+      ]
+    }
+  ]
+}
